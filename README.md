@@ -1,8 +1,8 @@
 # Proyecto_Telesecundaria763_Web_Progresiva
 
 [Proyecto_Telesecundaria763_Web_Progresiva]
-1.- Planeación del Desarrollo Orientado a la PWA e Integradora
 
+1.- Planeación del Desarrollo Orientado a la PWA e Integradora
 1.1	 Definición de los Objetivos y alcance del proyecto
 El objetivo principal del proyecto es desarrollar una PWA para la Telesecundaria 763 que optimice la interacción entre el personal administrativo, docentes y directivos, proporcionando acceso a información de alumnos y estadísticas para realizar procesos esenciales.
 Objetivos específicos:
@@ -11,7 +11,6 @@ Objetivos específicos:
 •	Desarrollar una solución flexible para futuras funcionalidades sin afectar el rendimiento.
 •	Mejorar la comunicación interna entre los distintos actores educativos.
 •	Optimizar el rendimiento con características como acceso sin conexión y notificaciones push.
-
 Alcance del proyecto: Incluye el diseño de una interfaz fácil de usar, desarrollo de funcionalidades como gestión de usuarios y visualización de calificaciones, además de pruebas rigurosas para garantizar calidad. El enfoque estará en la escalabilidad y adaptabilidad para futuras necesidades.
 
 1.2	Identificación del equipo de trabajo y sus roles
