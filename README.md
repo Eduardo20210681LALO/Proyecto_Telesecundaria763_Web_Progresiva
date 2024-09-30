@@ -17,8 +17,7 @@ Alcance del proyecto: Incluye el diseño de una interfaz fácil de usar, desarro
 El equipo de trabajo está compuesto por dos programadores, quienes asumen conjuntamente múltiples responsabilidades en el desarrollo del proyecto. Ambos se encargan del diseño, desarrollo y prueba de la PWA, lo que incluye la implementación de la interfaz de usuario, la integración con el Backend y la optimización del rendimiento.
 
 1.3	Establecimiento de los plazos y entregas del proyecto
-
-Los plazos y entregas del proyecto se gestionan a través de la herramienta ClickUp. Cada sprint tiene una duración definida, y en esta herramienta se establece la fecha exacta de finalización para cada entrega. Esta planificación permite llevar un control detallado y organizado de los procesos, garantizando que las tareas se realicen dentro de los tiempos previstos y se logre un flujo de trabajo eficiente. Además, ClickUp facilita el seguimiento continuo de las tareas asignadas y sus fechas límite, asegurando que se cumplan los objetivos de cada sprint.
+Los plazos y entregas del proyecto se gestionan a través de la herramienta TRELLO. Cada sprint tiene una duración definida, y en esta herramienta se establece la fecha exacta de finalización para cada entrega. Esta planificación permite llevar un control detallado y organizado de los procesos, garantizando que las tareas se realicen dentro de los tiempos previstos y se logre un flujo de trabajo eficiente. Además, ClickUp facilita el seguimiento continuo de las tareas asignadas y sus fechas límite, asegurando que se cumplan los objetivos de cada sprint.
 
 
 1.4	Identificación de los riesgos y las medidas para mitigarlos
@@ -34,17 +33,17 @@ Mitigación: Priorización y sprints manejables para distribuir la carga.
 Mitigación: Uso de tecnologías confiables y alternativas disponibles.
 
 1.5	Estrategia de comunicación entre los miembros del equipo
-La estrategia de comunicación del equipo se gestionará a través de la herramienta ClickUp, que no solo permitirá la asignación y seguimiento de tareas, sino también la comunicación directa mediante los apartados de observaciones y mensajes integrados. Esto facilitará una comunicación constante entre los miembros del equipo de trabajo, permitiendo resolver dudas y hacer ajustes de manera eficiente. La herramienta asegura que todas las interacciones queden registradas, lo que contribuye a una mejor organización y alineación en cada fase del proyecto.
+La estrategia de comunicación del equipo se gestionará a través de la herramienta TRELLLO, que no solo permitirá la asignación y seguimiento de tareas, sino también la comunicación directa mediante los apartados de observaciones y mensajes integrados. Esto facilitará una comunicación constante entre los miembros del equipo de trabajo, permitiendo resolver dudas y hacer ajustes de manera eficiente. La herramienta asegura que todas las interacciones queden registradas, lo que contribuye a una mejor organización y alineación en cada fase del proyecto.
 
 
 
 
 2.- Metodología de Desarrollo
 2.1 Selección de Metodología de Desarrollo Ágil (Scrum)
-
 Scrum fue seleccionada para el desarrollo de una PWA para la Telesecundaria 763, por su enfoque ágil y adaptabilidad a las necesidades educativas. Esta metodología organiza el trabajo en sprints cortos que permiten la entrega continua de incrementos funcionales. Cada sprint incluye planificación, ejecución, revisión y retrospectiva, garantizando un proceso iterativo y adaptable.
 Scrum promueve la colaboración entre desarrolladores y el personal de la escuela, facilitando la resolución rápida de problemas. Además, permite priorizar las funcionalidades clave y adaptarse a cambios durante el desarrollo, cumpliendo con las expectativas del cliente.
-Justificación
+
+Justificación:
 Scrum es ideal para el desarrollo de la PWA de la Telesecundaria 763, por su enfoque estructurado y flexible. La división en sprints cortos facilita la entrega incremental y la rápida adaptación a los cambios. La metodología fomenta la transparencia y colaboración a través de reuniones diarias, asegurando que el equipo esté alineado y que los problemas se resuelvan rápidamente. La interacción continua con el cliente asegura que el producto final cumpla con sus necesidades, ofreciendo adaptabilidad, eficiencia y una comunicación clara.
 
 2.2 Implementación de la Planificación de la metodología seleccionada.
@@ -57,7 +56,6 @@ Esta planificación iterativa permite la flexibilidad para adaptarse a cambios y
 
 
 3.- Issue Tracking y Asignación de Issues
-
-3.1 Selección de Herramienta para la Gestión (ClickUp)
-Para la gestión eficiente del proyecto, se ha seleccionado ClickUp como la herramienta principal. Esta plataforma ofrece una amplia gama de funcionalidades que permiten organizar y controlar las tareas, establecer plazos, asignar responsabilidades y facilitar la comunicación entre los miembros del equipo. La elección de ClickUp se basa en su capacidad para gestionar proyectos ágiles como en este caso lo presenta, proporcionando una visión clara del progreso mediante sprints, así como la posibilidad de registrar observaciones y mensajes directamente dentro de cada tarea, lo que optimiza la colaboración y el seguimiento del trabajo en tiempo real.
-Justificación: ClickUp permite una planificación estructurada, con calendarios y fechas de entrega bien definidas, asegurando que se cumplan los objetivos establecidos en cada fase del proyecto.
+3.1 Selección de Herramienta para la Gestión (TRELLO)
+Para la gestión eficiente del proyecto, se ha seleccionado TRELLO como la herramienta principal. Esta plataforma ofrece una amplia gama de funcionalidades que permiten organizar y controlar las tareas, establecer plazos, asignar responsabilidades y facilitar la comunicación entre los miembros del equipo. La elección de ClickUp se basa en su capacidad para gestionar proyectos ágiles como en este caso lo presenta, proporcionando una visión clara del progreso mediante sprints, así como la posibilidad de registrar observaciones y mensajes directamente dentro de cada tarea, lo que optimiza la colaboración y el seguimiento del trabajo en tiempo real.
+Justificación: TRELLO permite una planificación estructurada, con calendarios y fechas de entrega bien definidas, asegurando que se cumplan los objetivos establecidos en cada fase del proyecto.
