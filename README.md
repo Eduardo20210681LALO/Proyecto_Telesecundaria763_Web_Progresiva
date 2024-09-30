@@ -59,3 +59,11 @@ Esta planificación iterativa permite la flexibilidad para adaptarse a cambios y
 3.1 Selección de Herramienta para la Gestión (TRELLO)
 Para la gestión eficiente del proyecto, se ha seleccionado TRELLO como la herramienta principal. Esta plataforma ofrece una amplia gama de funcionalidades que permiten organizar y controlar las tareas, establecer plazos, asignar responsabilidades y facilitar la comunicación entre los miembros del equipo. La elección de ClickUp se basa en su capacidad para gestionar proyectos ágiles como en este caso lo presenta, proporcionando una visión clara del progreso mediante sprints, así como la posibilidad de registrar observaciones y mensajes directamente dentro de cada tarea, lo que optimiza la colaboración y el seguimiento del trabajo en tiempo real.
 Justificación: TRELLO permite una planificación estructurada, con calendarios y fechas de entrega bien definidas, asegurando que se cumplan los objetivos establecidos en cada fase del proyecto.
+
+4.- Selección de Herramienta de Control de Versiones
+4.1 Se ha seleccionado Git como herramienta de control de versiones en conjunto con GitHub para este proyecto. Esta combinación permite una colaboración eficiente entre los miembros del equipo, facilitando la revisión de código mediante pull requests, la creación de ramas para el desarrollo de nuevas funcionalidades y el seguimiento de cambios en tiempo real.
+
+5.- Selección de Estrategia de Versionamiento
+5.1 Utilizaremos GitHub Flow en nuestro proyecto porque nos permitirá
+Mantener la estabilidad del código: La rama main siempre contendrá el código listo para producción, evitando que cambios no probados afecten la versión estable.
+Desarrollar nuevas funcionalidades sin interrumpir el trabajo en producción: Las nuevas características se desarrollarán en ramas separadas, lo que nos permitirá trabajar en paralelo sin comprometer el código existente.Fácil integración y revisiones: Cada vez que se complete una funcionalidad o corrección, realizaremos un pull request para que el código sea revisado antes de ser fusionado a main, mejorando la calidad del proyecto.Respuestas rápidas a errores en producción: En caso de errores críticos, podremos crear ramas de hotfix para corregir problemas rápidamente sin afectar el desarrollo de nuevas funcionalidades.
