@@ -1,6 +1,6 @@
 # Proyecto_Telesecundaria763_Web_Progresiva
-Proyecto_Telesecundaria763_Web_Progresiva
-[-------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+
+[Proyecto_Telesecundaria763_Web_Progresiva]
 1.- Planeación del Desarrollo Orientado a la PWA e Integradora
 
 1.1	 Definición de los Objetivos y alcance del proyecto
