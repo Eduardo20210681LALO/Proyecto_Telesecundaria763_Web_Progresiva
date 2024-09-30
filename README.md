@@ -67,3 +67,5 @@ Justificación: TRELLO permite una planificación estructurada, con calendarios 
 5.1 Utilizaremos GitHub Flow en nuestro proyecto porque nos permitirá
 Mantener la estabilidad del código: La rama main siempre contendrá el código listo para producción, evitando que cambios no probados afecten la versión estable.
 Desarrollar nuevas funcionalidades sin interrumpir el trabajo en producción: Las nuevas características se desarrollarán en ramas separadas, lo que nos permitirá trabajar en paralelo sin comprometer el código existente.Fácil integración y revisiones: Cada vez que se complete una funcionalidad o corrección, realizaremos un pull request para que el código sea revisado antes de ser fusionado a main, mejorando la calidad del proyecto.Respuestas rápidas a errores en producción: En caso de errores críticos, podremos crear ramas de hotfix para corregir problemas rápidamente sin afectar el desarrollo de nuevas funcionalidades.
+
+
